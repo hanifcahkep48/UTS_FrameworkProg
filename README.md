@@ -1,5 +1,5 @@
 Link Heroku  : https://uts-crud-laravel.herokuapp.com/list-barang <br/>
-Link Laporan :
+Link Laporan : https://drive.google.com/file/d/1dN4DAkkKXGbAbrup-N74BBcqjKK0P8r0/view?usp=sharing
 
 
 
